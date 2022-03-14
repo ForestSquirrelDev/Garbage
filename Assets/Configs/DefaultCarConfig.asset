@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 418f9b3ae4885874a9705270121845a4, type: 3}
   m_Name: DefaultCarConfig
   m_EditorClassIdentifier: 
-  Torque: 400
-  SteerAngle: 30
+  Torque: 1000
+  SteerAngle: 35
   AntiRoll: 100000
   BrakeTorque: 6000
