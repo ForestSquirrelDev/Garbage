@@ -1,7 +1,7 @@
 # Garbage drift
 
 Low effort game made for Low Effort Game Jam in about ~6 hours. As the name suggests, the game is... garbage 🤣
-But i had lots of fun with it nonetheles 🙂
+But i had lots of fun with it nonetheless 🙂
 
 Here you can see how it looks: https://youtu.be/6w2gLd8_rU0
 Here you can play it yourself: https://kikchitov.itch.io/garbage-drift
